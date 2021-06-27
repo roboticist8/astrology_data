@@ -6,11 +6,11 @@ Data scraped from [Astro-Databank](https://www.astro.com/astro-databank) for Res
 - beautifulsoup4
 
 ### Example of a website page and extrated to json
-<!-- #### Website page of a data
+#### Website page of a data
 ![Astro Site data example](./demo/astro_site.png)
 #### Extracted the website data into json
-![Json example](./demo/json.png) -->
-<img src="./demo/astro_site.png" width="350"> | <img src="./demo/json.png" width="480">
+![Json example](./demo/json.png)
+<!-- <img src="./demo/astro_site.png" width="350"> | <img src="./demo/json.png" width="480"> -->
 
 ### How to use the repository
 - **full_data.zip** contains all the data available on the site

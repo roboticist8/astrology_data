@@ -5,8 +5,15 @@ Data scraped from [Astro](https://www.astro.com/astro-databank) for Research
 - Python 3.7
 - beautifulsoup4
 
+### Example
+#### Website page of an data
+![Astro Site data example](./demo/astro_site.png)
+#### Extracted the website data into json
+![Json example](./demo/json.png)
+
+
 ### How to use the repository
-- Full_data.zip contains all the data available on the site
+- **full_data.zip** contains all the data available on the site
 - For getting the data one by one
   ```
   $ python3 loopAllPage.py

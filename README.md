@@ -23,4 +23,4 @@ Data scraped from [Astro](https://www.astro.com/astro-databank) for Research
   $ python3 multiprocessAllpage.py
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please cite the repo, if you use in any publications.
